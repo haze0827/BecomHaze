@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class memo {
 
     //始まりは簡単にする方が良い。
-    //たまにgiプシーとフールも勉強てましょ、、
-
+    //たまにgiプシーとフールも勉強てましょ、、/
+    //메인에서 수정
 
     public static void main(String[] args) {
 
