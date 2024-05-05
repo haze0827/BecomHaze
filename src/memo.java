@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class memo {
 
-    //始まりは簡単にする方が良い！。
+    //始まりは簡単にする方が良い。
     //たまにgiプシーとフールも勉強てましょ、、
 
 
