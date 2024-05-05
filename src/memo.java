@@ -31,7 +31,7 @@ public class memo {
         System.out.println("엔터, 그 라인에 텍스트");
     string line= input.nextline();
 
-        System.out.println("입력 값: " + line);
+        System.out.println("입력값: " + line);
 
 
 }
